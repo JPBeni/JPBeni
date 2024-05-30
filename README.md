@@ -17,7 +17,7 @@
 </div>
  
  <br>
- 
+ ## Redes
 <div> 
   <a href="https://instagram.com/joaopedro.benitez" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joaopbenitez@outlook.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Outlook&color=0078D4&logo=Microsoft+Outlook&logoColor=FFFFFF&label="></a>
